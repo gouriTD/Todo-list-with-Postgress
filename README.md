@@ -1,5 +1,5 @@
 # Todo-list-with-Postgress
-A Todolist app with postgress db integration
+A Todolist app with postgres db integration
 
 This is a basic todo list app which has the following functionalities :
 1) Inserting a new list item.
