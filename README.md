@@ -2,10 +2,10 @@
 A Todolist app with postgress db integration
 
 This is a basic todo list app which has the following functionalities :
-a) Inserting a new list item .
-b) Retrieving the entire list items and then displaying it for users.
-c) Editing a particular listitem and storing it in db.
-d) Deleting a listitem.
+1) Inserting a new list item.
+2) Retrieving the entire list items and then displaying it for users.
+3) Editing a particular listitem and storing it in db.
+4) Deleting a listitem.
 
 **Tech stack used:**
 Front-end :
@@ -15,5 +15,5 @@ Backend:
 1) node + express
 
 Database:
-1) Postgress
+1) Postgres
 
